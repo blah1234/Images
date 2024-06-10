@@ -10,7 +10,6 @@ class DataViewModel(application: Application) : AndroidViewModel(application) {
             "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/f0/76/53/f07653f4-b038-d5f8-6525-22215df576ab/mzl.fnnnnzxd.jpg/500x500AM.RSAB01.jpeg",
             "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/5a/f6/61/5af661f6-1a86-1639-83ff-88f731bdb332/source/500x500cc.jpeg",
             "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/7b/1d/f0/7b1df048-0017-8ac0-98c9-735f14849606/mza_7507996640781423701.png/500x500bb.jpeg",
-            "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/7b/1d/f0/7b1df048-0017-8ac0-98c9-735f14849606/mza_7507996640781423701.png/750x750bb.jpeg",
             "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/2f/83/1d/2f831dae-1e89-7fe7-3604-0cd066a36042/source/500x500sr.jpeg",
             "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/67/70/3a/67703af7-1722-0a65-d571-95b85065f41b/source/500x500SC.DN01.jpeg?l=en-US",
             "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/69/2f/3a/692f3a66-c22f-fd80-950d-c2a109653d23/source/500x500SC.DN01.jpeg?l=en-US",
